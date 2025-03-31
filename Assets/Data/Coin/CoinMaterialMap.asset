@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d17a850f8334c33be2c98be05deebfe, type: 3}
+  m_Name: CoinMaterialMap
+  m_EditorClassIdentifier: 
+  coinMaterialData:
+  - id: 0
+    material: {fileID: 2100000, guid: 91f906eae0106824181a44272096b3a2, type: 2}
+  - id: 1
+    material: {fileID: 2100000, guid: 4483d04c7c84ec74daf9e4ab4a9083f1, type: 2}
+  - id: 2
+    material: {fileID: 2100000, guid: d4fa724d2702c8f48bf4e6cba894a767, type: 2}
+  - id: 3
+    material: {fileID: 2100000, guid: 47a1399be005ae9499df9468d29985b7, type: 2}
+  - id: 4
+    material: {fileID: 2100000, guid: bbea4c966dc753348bfea395f5ccd336, type: 2}
